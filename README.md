@@ -14,7 +14,7 @@
 ## 📦 My Projects
 | Project | Description  | Status | Links  | 
 |--------------|---|---|---|
-| **Portfolio** |  A simple portfolio in PHP[Laravel]-ANGULAR  |  WIP | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/matte97p/Portfolio) |
+| **Portfolio** |  A simple portfolio in PHP[Laravel]-ANGULAR  |  WIP | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/matte97p/Portfolio-2.0) |
 | **CRUD example** |  A simple crud in PHP[Laravel]  |  WIP | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/matte97p/CRUD) |
 | **Laravel inherit PHP8+** |  Laravel Postgresql inherit php8+  |  WIP | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/matte97p/laravel-postgresql-inherit) |
 
