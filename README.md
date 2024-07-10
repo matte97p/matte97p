@@ -14,6 +14,9 @@
 ## 📦 My Projects
 | Project | Description  | Status | Links  | 
 |--------------|---|---|---|
+| **Tetris** |  Monochromatic Arduino(C) Tetris Game   |  WIP | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/matte97p/Tetris_Arduino) |
+| **Pac Man** |  Monochromatic Arduino(C) Pac Man Game   |  WIP | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/matte97p/PacMan_Arduino) |
+| **Snake** |  Monochromatic Arduino(C) Snake Game   |  WIP | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/matte97p/Snake_Arduino) |
 | **Portfolio** |  A simple portfolio in PHP[Laravel]-ANGULAR  |  WIP | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/matte97p/Portfolio-2.0) |
 | **CRUD example** |  A simple crud in PHP[Laravel]  |  WIP | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/matte97p/CRUD) |
 | **Laravel inherit PHP8+** |  Laravel Postgresql inherit php8+  |  WIP | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/matte97p/laravel-postgresql-inherit) |
