@@ -14,7 +14,7 @@
 ## 📦 My Projects
 | Project | Description  | Status | Links  | 
 |--------------|---|---|---|
-| **Cabinato** |  Snake|Tetris|PacMan Arduino monochromatic Game   |  ✓ | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/matte97p/cabinato) |
+| **Cabinato** |  Snake-Tetris-PacMan Arduino monochromatic Game   |  ✓ | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/matte97p/cabinato) |
 | **Tetris** |  Monochromatic Arduino(C) Tetris Game   |  ✓ | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/matte97p/Tetris_Arduino) |
 | **Pac Man** |  Monochromatic Arduino(C) Pac Man Game   |  ✓ | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/matte97p/PacMan_Arduino) |
 | **Snake** |  Monochromatic Arduino(C) Snake Game   |  ✓ | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/matte97p/Snake_Arduino) |
