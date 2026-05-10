@@ -1,11 +1,11 @@
+<div align="center">
+
 ![](./matte97.p.svg)
 
 ### Here is your Super Hero Software Developer
 📍 Where I Live: **Asti (AT) / Genova (GE) - Italy**
 
 🔨 What I do: **Senior Developer**
-
-<div align="center">
 
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/matteo-perino-27642016b)
 
