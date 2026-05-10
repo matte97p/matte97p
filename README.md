@@ -18,10 +18,10 @@ I lead [**GeoSuite**](https://github.com/TryGeoSuite) — open-source CLIs for G
 ## 📦 My Projects
 | Project | Description  | Status | Links  | 
 |--------------|---|---|---|
-| **ai-crawler-bots** |  CLI: AI bot user-agents + robots.txt verdict (GEO)  |  ✓ | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/geosuite/ai-crawler-bots) |
-| **schema-templates** |  Copy-paste schema.org JSON-LD templates + validator  |  ✓ | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/geosuite/schema-templates) |
-| **llms-txt-generator** |  sitemap.xml → llms.txt (llmstxt.org standard)  |  ✓ | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/geosuite/llms-txt-generator) |
-| **sitemap-builder** |  Crawl site, emit valid sitemap.xml  |  ✓ | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/geosuite/sitemap-builder) |
+| **ai-crawler-bots** |  CLI: AI bot user-agents + robots.txt verdict (GEO)  |  ✓ | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/trygeosuite/ai-crawler-bots) |
+| **schema-templates** |  Copy-paste schema.org JSON-LD templates + validator  |  ✓ | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/trygeosuite/schema-templates) |
+| **llms-txt-generator** |  sitemap.xml → llms.txt (llmstxt.org standard)  |  ✓ | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/trygeosuite/llms-txt-generator) |
+| **sitemap-builder** |  Crawl site, emit valid sitemap.xml  |  ✓ | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/trygeosuite/sitemap-builder) |
 | **Cabinato** |  Snake-Tetris-PacMan Arduino monochromatic Game   |  ✓ | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/matte97p/cabinato) |
 | **Tetris** |  Monochromatic Arduino(C) Tetris Game   |  ✓ | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/matte97p/Tetris_Arduino) |
 | **Pac Man** |  Monochromatic Arduino(C) Pac Man Game   |  ✓ | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/matte97p/PacMan_Arduino) |
