@@ -1,3 +1,5 @@
+![](./matte97.p.svg)
+
 ### Here is your Super Hero Software Developer
 📍 Where I Live: **Asti (AT) / Genova (GE) - Italy**
 
@@ -7,9 +9,11 @@
 
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/matteo-perino-27642016b)
 
-![](./matte97.p.svg)
-
 </div>
+
+## 🏢 Organization
+
+I lead [**GeoSuite**](https://github.com/TryGeoSuite) — open-source CLIs for Generative Engine Optimization. → [trygeosuite.it](https://trygeosuite.it)
 
 ## 📦 My Projects
 | Project | Description  | Status | Links  | 
