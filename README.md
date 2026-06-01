@@ -18,6 +18,7 @@ I lead [**GeoSuite**](https://github.com/TryGeoSuite) — open-source CLIs for G
 ## 📦 My Projects
 | Project | Description  | Status | Links  | 
 |--------------|---|---|---|
+| **rlsgrid** | Schema-driven Row-Level Security test matrix generator and cross-tenant fuzzer for Postgres/Supabase.  |  ✓ | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/matte97p/rlsgrid) |
 | **ai-crawler-bots** |  CLI: AI bot user-agents + robots.txt verdict (GEO)  |  ✓ | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/trygeosuite/ai-crawler-bots) |
 | **schema-templates** |  Copy-paste schema.org JSON-LD templates + validator  |  ✓ | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/trygeosuite/schema-templates) |
 | **llms-txt-generator** |  sitemap.xml → llms.txt (llmstxt.org standard)  |  ✓ | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/trygeosuite/llms-txt-generator) |
