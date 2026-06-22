@@ -3,7 +3,6 @@ analytic-signal.preview-pdf
 anthropic.claude-code
 bradlc.vscode-tailwindcss
 eamodio.gitlens
-geequlim.godot-tools
 github.vscode-github-actions
 github.vscode-pull-request-github
 mechatroner.rainbow-csv
