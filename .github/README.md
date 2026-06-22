@@ -48,7 +48,6 @@ Attualmente presso **[Cato](https://get-cato.com/)** — open source nei cicli l
 
 **DevOps & Cloud:**  
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
@@ -64,7 +63,7 @@ Attualmente presso **[Cato](https://get-cato.com/)** — open source nei cicli l
 🇮🇹 **Based in** Genova (primary) + Asti (origin) — **UTC+1 timezone**  
 🗣️ **Languages** — Italian (native), English (fluent), Spanish (basic)  
 ⏱️ **Experience** — 9+ years building digital products, 8+ as tech leader  
-🎮 **Hobby projects** — [Perinopolis](https://github.com/matte97p/perinopolis) (Godot 4 game), [demowright](https://github.com/matte97p/demowright) (demo recording tool)
+🎮 **Hobby projects** — [Cabinato](https://github.com/matte97p/Cabinato) (Arduino monochromatic game), [demowright](https://github.com/matte97p/demowright) (demo recording tool)
 
 ---
 
