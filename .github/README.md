@@ -32,10 +32,39 @@ Attualmente presso **[Cato](https://get-cato.com/)** — open source nei cicli l
 
 ## Tech Stack
 
-**Backend:** PHP (Laravel, Symfony), Python (FastAPI), PostgreSQL, MySQL  
-**Frontend:** Nuxt, Vue.js, React, TypeScript  
-**DevOps:** GCP, AWS, Docker, Kubernetes, Cloudflare, CI/CD  
-**Testing:** Unit, Integration, E2E (Cypress), Security fuzzing
+**Backend:**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Frontend:**  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**DevOps & Cloud:**  
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+
+**Testing:**  
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Security Testing](https://img.shields.io/badge/Security%20Testing-EF3B2D?style=flat&logo=&logoColor=white)
+
+---
+
+## About Me
+
+🇮🇹 **Based in** Genova (primary) + Asti (origin) — **UTC+1 timezone**  
+🗣️ **Languages** — Italian (native), English (fluent), Spanish (basic)  
+⏱️ **Experience** — 9+ years building digital products, 8+ as tech leader  
+🎮 **Hobby projects** — [Perinopolis](https://github.com/matte97p/perinopolis) (Godot 4 game), [demowright](https://github.com/matte97p/demowright) (demo recording tool)
 
 ---
 
