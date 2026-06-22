@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/matte97p/matte97p/main/matte97.p.svg" alt="Matteo Perino" width="80" height="80" />
+<img src="https://raw.githubusercontent.com/matte97p/matte97p/main/matte97.p.svg" alt="Matteo Perino" width="120" height="120" />
 
 # Matteo Perino
 
