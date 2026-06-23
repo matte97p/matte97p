@@ -18,15 +18,17 @@ Attualmente presso **[Cato](https://get-cato.com/)** — open source nei cicli l
 
 ## What I publish (Open Source)
 
-**Active Tools:**
-- **[ai-crawler-bots](https://github.com/matte97p/ai-crawler-bots)** – CLI per tester AI crawler user-agents vs robots.txt
-- **[schema-templates](https://github.com/matte97p/schema-templates)** – schema.org JSON-LD copy-paste + validator
-- **[llms-txt-generator](https://github.com/matte97p/llms-txt-generator)** – sitemap.xml → llms.txt [llmstxt.org](https://llmstxt.org/) standard
-- **[sitemap-builder](https://github.com/matte97p/sitemap-builder)** – crawl site, emit valid sitemap.xml
+Zero-dep CLIs on PyPI &amp; npm — **~2.7k installs/month** combined (counts update live):
 
-**Mature Projects:**
-- **[pentest-framework](https://github.com/matte97p/pentest-framework)** – Recon→Scan→PDF, su [PyPI](https://pypi.org/project/pentest-framework/)
-- **[rlsgrid](https://github.com/matte97p/rlsgrid)** – Row-Level Security test matrix generator per Postgres/Supabase
+| Package | What it does | Installs/mo | ★ |
+|---|---|:--:|:--:|
+| **[rlsgrid](https://github.com/matte97p/rlsgrid)** · `pip` | Cross-tenant Row-Level Security leak fuzzer for Postgres/Supabase | [![](https://img.shields.io/pypi/dm/rlsgrid?style=flat&label=%20&color=3775A9)](https://pypi.org/project/rlsgrid/) | [![](https://img.shields.io/github/stars/matte97p/rlsgrid?style=flat&label=%E2%98%85&color=444)](https://github.com/matte97p/rlsgrid/stargazers) |
+| **[ai-crawler-bots](https://github.com/TryGeoSuite/ai-crawler-bots)** · `npm` | See which AI crawlers can read your site — robots.txt audit + CI gate | [![](https://img.shields.io/npm/dm/@geosuite/ai-crawler-bots?style=flat&label=%20&color=CB3837)](https://www.npmjs.com/package/@geosuite/ai-crawler-bots) | [![](https://img.shields.io/github/stars/TryGeoSuite/ai-crawler-bots?style=flat&label=%E2%98%85&color=444)](https://github.com/TryGeoSuite/ai-crawler-bots/stargazers) |
+| **[sitemap-builder](https://github.com/TryGeoSuite/sitemap-builder)** · `npm` | Crawl a site, emit a valid sitemap.xml | [![](https://img.shields.io/npm/dm/@geosuite/sitemap-builder?style=flat&label=%20&color=CB3837)](https://www.npmjs.com/package/@geosuite/sitemap-builder) | [![](https://img.shields.io/github/stars/TryGeoSuite/sitemap-builder?style=flat&label=%E2%98%85&color=444)](https://github.com/TryGeoSuite/sitemap-builder/stargazers) |
+| **[llms-txt-generator](https://github.com/TryGeoSuite/llms-txt-generator)** · `npm` | sitemap.xml → llms.txt (the [llmstxt.org](https://llmstxt.org/) standard) | [![](https://img.shields.io/npm/dm/@geosuite/llms-txt-generator?style=flat&label=%20&color=CB3837)](https://www.npmjs.com/package/@geosuite/llms-txt-generator) | [![](https://img.shields.io/github/stars/TryGeoSuite/llms-txt-generator?style=flat&label=%E2%98%85&color=444)](https://github.com/TryGeoSuite/llms-txt-generator/stargazers) |
+| **[schema-templates](https://github.com/TryGeoSuite/schema-templates)** · `npm` | Validated, copy-paste schema.org JSON-LD templates | [![](https://img.shields.io/npm/dm/@geosuite/schema-templates?style=flat&label=%20&color=CB3837)](https://www.npmjs.com/package/@geosuite/schema-templates) | [![](https://img.shields.io/github/stars/TryGeoSuite/schema-templates?style=flat&label=%E2%98%85&color=444)](https://github.com/TryGeoSuite/schema-templates/stargazers) |
+| **[pentest-framework](https://github.com/matte97p/pentest-framework)** · `pip` | Low-noise pentest orchestration → one schema → PDF report | [![](https://img.shields.io/pypi/dm/pentest-framework?style=flat&label=%20&color=3775A9)](https://pypi.org/project/pentest-framework/) | [![](https://img.shields.io/github/stars/matte97p/pentest-framework?style=flat&label=%E2%98%85&color=444)](https://github.com/matte97p/pentest-framework/stargazers) |
+| **[demowright](https://github.com/matte97p/demowright)** · `npm` | Product-demo videos from a script in your repo; re-renders in CI | [![](https://img.shields.io/npm/dm/@matte97p/demowright?style=flat&label=%20&color=CB3837)](https://www.npmjs.com/package/@matte97p/demowright) | [![](https://img.shields.io/github/stars/matte97p/demowright?style=flat&label=%E2%98%85&color=444)](https://github.com/matte97p/demowright/stargazers) |
 
 ---
 
@@ -64,7 +66,7 @@ Attualmente presso **[Cato](https://get-cato.com/)** — open source nei cicli l
 🇮🇹 **Based in** Genova (primary) + Asti (origin) — **UTC+1 timezone**  
 🗣️ **Languages** — Italian (native), English (fluent), Spanish (basic)  
 ⏱️ **Experience** — 9+ years building digital products, 8+ as tech leader  
-🎮 **Hobby projects** — [Cabinato](https://github.com/matte97p/Cabinato) (Arduino monochromatic game), [demowright](https://github.com/matte97p/demowright) (demo recording tool)
+🎮 **Hobby projects** — [Cabinato](https://github.com/matte97p/cabinato) — Snake · Tetris · Pac-Man on a monochrome Arduino cabinet
 
 ---
 
