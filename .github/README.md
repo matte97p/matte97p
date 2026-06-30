@@ -30,6 +30,12 @@ Zero-dep CLIs on PyPI &amp; npm — [![downloads all-time](https://img.shields.i
 | **[pentest-framework](https://github.com/matte97p/pentest-framework)** · `pip` | Low-noise pentest orchestration → one schema → PDF report | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fprofile-download-stats.geosuite.workers.dev%2Fpkg%2Fmonthly%2Fpentest-framework&style=flat)](https://pypi.org/project/pentest-framework/) | [![](https://img.shields.io/pepy/dt/pentest-framework?style=flat&label=%20&color=3775A9)](https://pypi.org/project/pentest-framework/) | [![](https://img.shields.io/github/stars/matte97p/pentest-framework?style=flat&label=%E2%98%85&color=444&cacheSeconds=86400)](https://github.com/matte97p/pentest-framework/stargazers) |
 | **[demowright](https://github.com/matte97p/demowright)** · `npm` | Product-demo videos from a script in your repo; re-renders in CI | [![](https://img.shields.io/npm/dm/@matte97p/demowright?style=flat&label=%20&color=CB3837)](https://www.npmjs.com/package/@matte97p/demowright) | [![](https://img.shields.io/npm/dt/@matte97p/demowright?style=flat&label=%20&color=CB3837)](https://www.npmjs.com/package/@matte97p/demowright) | [![](https://img.shields.io/github/stars/matte97p/demowright?style=flat&label=%E2%98%85&color=444&cacheSeconds=86400)](https://github.com/matte97p/demowright/stargazers) |
 
+**Self-hosted** — an app you run, not a CLI (Docker image → no public install counter; the signal here is stars):
+
+| App | What it does | Image | ★ |
+|---|---|:--:|:--:|
+| **[dadaguard](https://github.com/matte97p/dadaguard)** · `docker` | DevOps watchdog — *is my stack up **and coherent**?* Correlates AWS + Terraform + secrets. Read-only, no-LLM. | [![](https://img.shields.io/badge/ghcr.io-image-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/matte97p/dadaguard/pkgs/container/dadaguard) | [![](https://img.shields.io/github/stars/matte97p/dadaguard?style=flat&label=%E2%98%85&color=444&cacheSeconds=86400)](https://github.com/matte97p/dadaguard/stargazers) |
+
 ---
 
 ## Tech Stack
