@@ -32,9 +32,9 @@ Zero-dep CLIs on PyPI &amp; npm — [![downloads all-time](https://img.shields.i
 
 **Self-hosted** — an app you run, not a CLI (Docker image → no public install counter; the signal here is stars):
 
-| App | What it does | Image | ★ |
+| App | What it does | Pulls | ★ |
 |---|---|:--:|:--:|
-| **[dadaguard](https://github.com/matte97p/dadaguard)** · `docker` | DevOps watchdog — *is my stack up **and coherent**?* Correlates AWS + Terraform + secrets. Read-only, no-LLM. | [![](https://img.shields.io/badge/ghcr.io-image-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/matte97p/dadaguard/pkgs/container/dadaguard) | [![](https://img.shields.io/github/stars/matte97p/dadaguard?style=flat&label=%E2%98%85&color=444&cacheSeconds=86400)](https://github.com/matte97p/dadaguard/stargazers) |
+| **[dadaguard](https://github.com/matte97p/dadaguard)** · `docker` | DevOps watchdog — *is my stack up **and coherent**?* Correlates AWS + Terraform + secrets. Read-only, no-LLM. | [![](https://img.shields.io/docker/pulls/matte97/dadaguard?style=flat&logo=docker&label=pulls&color=2496ED)](https://hub.docker.com/r/matte97/dadaguard) | [![](https://img.shields.io/github/stars/matte97p/dadaguard?style=flat&label=%E2%98%85&color=444&cacheSeconds=86400)](https://github.com/matte97p/dadaguard/stargazers) |
 
 ---
 
