@@ -2,7 +2,7 @@
 
 # Matteo Perino
 
-**Tech Leader & Fractional CTO** – 9+ anni sviluppo prodotti digitali, architetture backend, modernizzazione legacy.  
+**Tech Leader & Fractional CTO** – 10+ anni sviluppo prodotti digitali, architetture backend, modernizzazione legacy.  
 Attualmente presso **[Cato](https://get-cato.com/)** — open source nei cicli liberi.
 
 ---
