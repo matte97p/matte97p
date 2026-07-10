@@ -2,17 +2,16 @@
 
 # Matteo Perino
 
-**Tech Leader & Fractional CTO** – 10+ anni sviluppo prodotti digitali, architetture backend, modernizzazione legacy.  
-Attualmente presso **[Cato](https://get-cato.com/)** — open source nei cicli liberi.
+**Lead DevOps** @ **[Cato](https://get-cato.com/)** · **Founder & CTO** di **[GeoSuite](https://trygeosuite.it)** — 10+ anni tra prodotti digitali, architetture backend e modernizzazione legacy. Open source nei ritagli — numerose PR su progetti importanti (2 nel kernel Linux) e tanti progetti personali.
 
 ---
 
-## What I do (Professionalmente)
+## What I do
 
-- **Backend architecture** – PHP/Laravel → Python/FastAPI, microservizi, event-driven
-- **Cloud migrations** – GCP, AWS, Kubernetes pipelines, CI/CD
-- **Team scaling** – hiring, code review culture, mentoring
-- **Tech-business alignment** – roadmap prodotto, tech debt reduction, pragmatismo time-to-market
+- **Backend architecture** – PHP/Laravel → Python/FastAPI, microservices, event-driven
+- **Cloud & DevOps** – GCP, AWS, Kubernetes, CI/CD pipelines
+- **Team scaling** – hiring, code-review culture, mentoring
+- **Tech-business alignment** – product roadmap, tech-debt reduction, pragmatic time-to-market
 
 ---
 
@@ -30,11 +29,12 @@ Zero-dep CLIs on PyPI &amp; npm — [![downloads all-time](https://img.shields.i
 | **[pentest-framework](https://github.com/matte97p/pentest-framework)** · `pip` | Low-noise pentest orchestration → one schema → PDF report | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fprofile-download-stats.geosuite.workers.dev%2Fpkg%2Fmonthly%2Fpentest-framework&style=flat)](https://pypi.org/project/pentest-framework/) | [![](https://img.shields.io/pepy/dt/pentest-framework?style=flat&label=%20&color=3775A9)](https://pypi.org/project/pentest-framework/) | [![](https://img.shields.io/github/stars/matte97p/pentest-framework?style=flat&label=%E2%98%85&color=444&cacheSeconds=86400)](https://github.com/matte97p/pentest-framework/stargazers) |
 | **[demowright](https://github.com/matte97p/demowright)** · `npm` | Product-demo videos from a script in your repo; re-renders in CI | [![](https://img.shields.io/npm/dm/@matte97p/demowright?style=flat&label=%20&color=CB3837)](https://www.npmjs.com/package/@matte97p/demowright) | [![](https://img.shields.io/npm/dt/@matte97p/demowright?style=flat&label=%20&color=CB3837)](https://www.npmjs.com/package/@matte97p/demowright) | [![](https://img.shields.io/github/stars/matte97p/demowright?style=flat&label=%E2%98%85&color=444&cacheSeconds=86400)](https://github.com/matte97p/demowright/stargazers) |
 
-**Self-hosted** — an app you run, not a CLI (Docker image → no public install counter; the signal here is stars):
+**Apps & editor tools** — things you install and run (public counters where available; also watch the stars):
 
-| App | What it does | Pulls | ★ |
+| Project | What it does | Installs | ★ |
 |---|---|:--:|:--:|
 | **[dadaguard](https://github.com/matte97p/dadaguard)** · `docker` | DevOps watchdog — *is my stack up **and coherent**?* Correlates AWS + Terraform + secrets. Read-only, no-LLM. | [![](https://img.shields.io/docker/pulls/matte97/dadaguard?style=flat&logo=docker&label=pulls&color=2496ED)](https://hub.docker.com/r/matte97/dadaguard) | [![](https://img.shields.io/github/stars/matte97p/dadaguard?style=flat&label=%E2%98%85&color=444&cacheSeconds=86400)](https://github.com/matte97p/dadaguard/stargazers) |
+| **[fleet-for-claude-code](https://github.com/matte97p/fleet-for-claude-code)** · `vscode` | Run & monitor N concurrent Claude Code sessions from VS Code — built on the Claude Agent SDK | [![](https://img.shields.io/badge/Marketplace-install-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=matte97p.claude-fleet) | [![](https://img.shields.io/github/stars/matte97p/fleet-for-claude-code?style=flat&label=%E2%98%85&color=444&cacheSeconds=86400)](https://github.com/matte97p/fleet-for-claude-code/stargazers) |
 
 ---
 
@@ -71,16 +71,16 @@ Zero-dep CLIs on PyPI &amp; npm — [![downloads all-time](https://img.shields.i
 
 🇮🇹 **Based in** Genova (primary) + Asti (origin) — **UTC+1 timezone**  
 🗣️ **Languages** — Italian (native), English (fluent), Spanish (basic)  
-⏱️ **Experience** — 9+ years building digital products, 8+ as tech leader  
+⏱️ **Experience** — 10+ years building digital products, 8+ as tech leader  
 🎮 **Hobby projects** — [Cabinato](https://github.com/matte97p/cabinato) — Snake · Tetris · Pac-Man on a monochrome Arduino cabinet
 
 ---
 
 ## Open To
 
-- **Contract work** su tool architecture, security testing, LLM orchestration, team mentoring
+- **Contract work** on tooling architecture, security testing, LLM orchestration, mentoring
 - **Fractional CTO** roles (equity-backed, early-stage focus)
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/matteo-perino-27642016b/) · [matte97.p@gmail.com](mailto:matte97.p@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/matte97p/) · [matte97.p@gmail.com](mailto:matte97.p@gmail.com)
