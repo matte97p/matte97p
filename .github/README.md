@@ -2,6 +2,8 @@
 
 # Matteo Perino
 
+🌐 **[matteoperino.dev](https://matteoperino.dev)** — chi sono, prodotti e scritti
+
 **Lead DevOps** @ **[Cato](https://get-cato.com/)** · **Founder & CTO** di **[GeoSuite](https://trygeosuite.it)** — 10+ anni tra prodotti digitali, architetture backend e modernizzazione legacy. Open source nei ritagli — numerose PR su progetti importanti (2 nel kernel Linux) e tanti progetti personali.
 
 ---
@@ -69,6 +71,7 @@ Zero-dep CLIs on PyPI &amp; npm — [![downloads all-time](https://img.shields.i
 
 ## About Me
 
+🌐 **Website** — [matteoperino.dev](https://matteoperino.dev)  
 🇮🇹 **Based in** Genova (primary) + Asti (origin) — **UTC+1 timezone**  
 🗣️ **Languages** — Italian (native), English (fluent), Spanish (basic)  
 ⏱️ **Experience** — 10+ years building digital products, 8+ as tech leader  
@@ -83,4 +86,4 @@ Zero-dep CLIs on PyPI &amp; npm — [![downloads all-time](https://img.shields.i
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/matte97p/) · [matte97.p@gmail.com](mailto:matte97.p@gmail.com)
+🌐 **[matteoperino.dev](https://matteoperino.dev)** · [LinkedIn](https://www.linkedin.com/in/matte97p/) · [matte97.p@gmail.com](mailto:matte97.p@gmail.com)
